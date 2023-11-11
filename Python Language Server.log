@@ -1,0 +1,15 @@
+2023-11-11 15:08:29.191 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-11-11 15:08:29.191 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-11-11 15:08:29.191 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2023-11-11 15:08:29.191 [info] Experiment 'pythonREPLSmartSendcf' is active
+2023-11-11 15:08:29.191 [info] Experiment 'pythonTestAdapter' is active
+2023-11-11 15:08:29.311 [info] Default formatter is set to null for workspace /workspaces/My-whole-class-website-is-dead
+2023-11-11 15:08:29.311 [error] Following setting is deprecated: "python.linting.pylintEnabled"
+2023-11-11 15:08:29.311 [error] All settings starting with "python.linting." are deprecated and can be removed from settings.
+2023-11-11 15:08:29.311 [error] Linting features have been moved to separate linter extensions.
+2023-11-11 15:08:29.311 [error] See here for more information: https://code.visualstudio.com/docs/python/linting
+2023-11-11 15:08:29.311 [error] Please install "pylint" extension: https://marketplace.visualstudio.com/items?itemName=ms-python.pylint
+2023-11-11 15:08:29.638 [info] Test server listening.
+2023-11-11 15:08:29.656 [info] Python interpreter path: ~/.python/current/bin/python3
+2023-11-11 15:08:30.443 [info] > conda info --json
+2023-11-11 15:08:33.218 [info] Starting Pylance language server.
